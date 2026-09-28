@@ -4,3 +4,6 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+	![alt text](chart.jpe)
