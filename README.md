@@ -6,4 +6,4 @@
 | Paragraph | Text |
 
 
-	![alt text](chart.jpe)
+	![alt text](chart.jpg)
