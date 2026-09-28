@@ -6,4 +6,4 @@
 | Paragraph | Text |
 
 
-	![chart_image](chart.jpg)
+![chart_image](chart.jpg)
